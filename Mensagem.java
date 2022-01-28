@@ -1,4 +1,4 @@
-package com.dio;
+package me.dio.exercicio;
 
 public class Mensagem {
     public static void obterMensagem(int hora){
